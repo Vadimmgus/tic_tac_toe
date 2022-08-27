@@ -30,6 +30,6 @@ Online Tic-tac-toe multiplayer game using WebSockets Starlette.
    uvicorn main:app --reload
    ```
 
-4. 
+
 
 
